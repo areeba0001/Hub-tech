@@ -972,7 +972,8 @@ section{
 
 @media (max-width:364px){
   .header .logo-container .logo{
-  font-size: 1.5rem;}
+  font-size: 1.9rem;
+  margin-top: 10px;}
   .home{
     margin-top: -160px;
     background-size: 400px 250px;
