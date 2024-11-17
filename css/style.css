@@ -964,7 +964,9 @@ section{
   .btn-h{
     visibility: hidden;
   }
-
+.header .logo-container .logo{
+  font-size: 1.8rem;
+  margin-top: 20px;}
   .about .container .about-content{
     padding-top: 8rem;
   }
@@ -973,7 +975,7 @@ section{
 @media (max-width:364px){
   .header .logo-container .logo{
   font-size: 1.8rem;
-  margin-top: 25px;}
+  margin-top: 20px;}
   
   .home{
     margin-top: -160px;
